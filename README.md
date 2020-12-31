@@ -13,6 +13,11 @@
 ## About the Project:
 The app generates the team profile page of Engineering team through Command Line Interface. Project also includes writing test cases and testing the application via node package Jest. 
 
+![Tests](screenshot3.png)
+
+![CLI](screenshot1.png)
+
+![Team_Page](screenshot2.png)
 
 ### Technology:
 This app is build with [Node.js](https://nodejs.org/en/) and and the [Inquirer package](https://www.npmjs.com/package/inquirer) and tested using [Jest](https://jestjs.io/).
